@@ -33,6 +33,10 @@ PRODUCT_PACKAGES += \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
 
+# Overlays
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-aosp
+
 # Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 30
 
