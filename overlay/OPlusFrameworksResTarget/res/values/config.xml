@@ -406,4 +406,7 @@
         <item>95</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
 
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">OnePlus/OnePlus8T/OnePlus8T:12/RKQ1.211119.001/R.20220730031:user/release-keys</string>
+
 </resources>
